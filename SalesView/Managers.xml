@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ManagerDB xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ListDB>
+    <Manager>
+      <Status>0</Status>
+      <Gender>72</Gender>
+      <LastName>Castillo</LastName>
+      <FirstName>Pedro</FirstName>
+      <Password>123456</Password>
+      <Username>pcastillo</Username>
+      <Id>1</Id>
+      <Salary>6000</Salary>
+      <EmployeesNumber>12</EmployeesNumber>
+    </Manager>
+    <Manager>
+      <Status>0</Status>
+      <Gender>77</Gender>
+      <LastName>Fujimoto</LastName>
+      <FirstName>Sofía</FirstName>
+      <Password>123456</Password>
+      <Username>sfujimoto</Username>
+      <Id>2</Id>
+      <Salary>5500</Salary>
+      <EmployeesNumber>15</EmployeesNumber>
+    </Manager>
+  </ListDB>
+</ManagerDB>

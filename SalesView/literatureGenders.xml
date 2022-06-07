@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LiteratureGenderDB xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ListDB>
+    <LiteratureGender>
+      <Name>Novela</Name>
+      <Id>1</Id>
+    </LiteratureGender>
+    <LiteratureGender>
+      <Name>Ensayo</Name>
+      <Id>2</Id>
+    </LiteratureGender>
+    <LiteratureGender>
+      <Name>Dramático</Name>
+      <Id>3</Id>
+    </LiteratureGender>	
+    <LiteratureGender>
+      <Name>Narrativa personal</Name>
+      <Id>4</Id>
+    </LiteratureGender>	
+    <LiteratureGender>
+      <Name>Cuento|Fábula</Name>
+      <Id>5</Id>
+    </LiteratureGender>	
+    <LiteratureGender>
+      <Name>Libro de autoayuda</Name>
+      <Id>6</Id>
+    </LiteratureGender>	
+  </ListDB>
+</LiteratureGenderDB>

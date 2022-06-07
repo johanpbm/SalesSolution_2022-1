@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Status>0</Status>
+    <Gender>0</Gender>
+    <LastName>Baldeón</LastName>
+    <FirstName>Johan</FirstName>
+    <Password>password</Password>
+    <Username>jbaldeon</Username>
+    <Id>1</Id>
+  </User>
+  <User>
+    <Status>0</Status>
+    <Gender>0</Gender>
+    <LastName>Castro</LastName>
+    <FirstName>Aquiles</FirstName>
+    <Password>password</Password>
+    <Username>acastro</Username>
+    <Id>2</Id>
+  </User>
+  <User>
+    <Status>0</Status>
+    <Gender>0</Gender>
+    <FirstName>César</FirstName>
+    <Password>password</Password>
+    <Username>csalvador</Username>
+    <Id>3</Id>
+    <LastName>Salvador</LastName>	
+  </User>  
+</ArrayOfUser>

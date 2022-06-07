@@ -1,0 +1,2 @@
+#include "SalesGraphicsForm.h"
+
