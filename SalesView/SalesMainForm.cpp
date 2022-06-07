@@ -9,4 +9,5 @@ void Main(array<String^>^ args) {
     //SalesController::DBController::LoadUsers();
     SalesView::SalesMainForm form;
     Application::Run(% form);
+    //Cambio
 }
